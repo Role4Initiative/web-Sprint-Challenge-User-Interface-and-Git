@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5 {
 }
 
 p {
-    font-size: 17px;
+    font-size: 16px;
     line-height: 1.4;
     margin-bottom: 20px;
 }
@@ -81,10 +81,10 @@ header nav {
     width: 46%;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     padding: 20px 2%;
     margin-bottom: 1%;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 header nav a {
@@ -177,10 +177,10 @@ button {
     padding: 10px 20px;
     margin-bottom: 20px;
 }
-.strategy-howwework {
+#strategy-howwework {
     display: flex;
 }
-.placeswework-collaboration {
+#placeswework-collaboration {
     display: flex;
 }
 .strategy, .howwework {
